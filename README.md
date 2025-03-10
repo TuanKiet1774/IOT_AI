@@ -8,6 +8,8 @@ Nhóm tác giả:
 + Hoàng Duy An
 + Vương Minh Trí
 
+Các nền tảng hỗ trợ theo dõi và train AI
+
 Blynk: https://blynk.cloud
 
 ThingBoard: https://thingsboard.cloud/login
